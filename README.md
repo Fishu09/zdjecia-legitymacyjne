@@ -5,6 +5,9 @@ Nasłuchuje folderu, do którego program do tetheringu zapisuje zdjęcia z apara
 i od razu kopiuje każde nowe ujęcie do folderu docelowego pod nazwą aktywnego ucznia,
 np. `Jan_Kowalski_3A.jpg`, `Jan_Kowalski_3A_2.jpg`, …
 
+**Pobierz gotowy program:** [ZdjeciaLegitymacyjne.exe](https://github.com/Fishu09/zdjecia-legitymacyjne/releases/latest)
+(Windows 10/11, nie wymaga Pythona).
+
 ## Struktura
 
 | Plik | Zawartość |
